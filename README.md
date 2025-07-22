@@ -1,6 +1,6 @@
 # GhostSolve - Invisible AI-Powered Interview Assistant
 
-A powerful, completely invisible AI tool for solving Coding questions during technical interviews. The tool runs 100% undetectably in the background - no screen recording or monitoring software can identify its presence. 
+A powerful, completely invisible AI tool that runs 100% undetectably in the background - no screen recording or monitoring software can identify its presence. 
 
 Open-source Alternative to Interview Coder
 
